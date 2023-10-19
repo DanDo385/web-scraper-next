@@ -35,7 +35,7 @@ const ProductCard = ({ product }: Props) => {
         </div>
       </div>
     </Link>
-  )
+  );
 }
 
-export default ProductCard
+export default ProductCard;
