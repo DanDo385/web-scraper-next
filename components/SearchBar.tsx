@@ -1,4 +1,4 @@
-const handleSubmit = (e) => {
+const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
   e.preventDefault();
   // handle form submission logic here
 };
